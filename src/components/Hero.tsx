@@ -14,7 +14,7 @@ const Hero = () => {
             <img 
               src="https://masqote.github.io/medhy/assets/img/thumb/Capture.PNG"
               alt="Profile"
-              className="w-44 h-44 rounded-full mx-auto mb-6 shadow-xl ring-4 ring-white"
+              className="w-40 h-44 rounded-full mx-auto mb-6 shadow-xl ring-4 ring-white"
             />
           </div>
           
