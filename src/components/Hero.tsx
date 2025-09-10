@@ -21,12 +21,12 @@ const Hero = () => {
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-slate-800 mb-6">
             Hi, I'm{' '}
             <span className="bg-gradient-to-r from-blue-600 to-emerald-500 bg-clip-text text-transparent">
-              Medhy Pradana Putra
+              Widya Nurul Fitri
             </span>
           </h1>
           
           <p className="text-xl sm:text-2xl text-slate-600 mb-8 max-w-3xl mx-auto leading-relaxed">
-            Backend Developer - crafting digital experiences that inspire and engage
+            HRBP Ngeri - crafting digital experiences that inspire and engage
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
