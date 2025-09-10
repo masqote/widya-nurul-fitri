@@ -12,21 +12,21 @@ const Hero = () => {
         <div className="text-center">
           <div className="mb-8">
             <img 
-              src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&fit=crop"
+              src="https://masqote.github.io/medhy/assets/img/thumb/Capture.PNG"
               alt="Profile"
-              className="w-32 h-32 rounded-full mx-auto mb-6 shadow-xl ring-4 ring-white"
+              className="w-44 h-44 rounded-full mx-auto mb-6 shadow-xl ring-4 ring-white"
             />
           </div>
           
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-slate-800 mb-6">
             Hi, I'm{' '}
             <span className="bg-gradient-to-r from-blue-600 to-emerald-500 bg-clip-text text-transparent">
-              Alex Johnson
+              Medhy Pradana Putra
             </span>
           </h1>
           
           <p className="text-xl sm:text-2xl text-slate-600 mb-8 max-w-3xl mx-auto leading-relaxed">
-            Full-Stack Developer & UI/UX Designer crafting digital experiences that inspire and engage
+            Backend Developer - crafting digital experiences that inspire and engage
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
